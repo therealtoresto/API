@@ -1,0 +1,12 @@
+{
+    "name": "ws-api",
+    "version": "0.1.1",
+    "author": "Taras Bondaruk <therealtoresto@gmail.com>",
+    "description": "WS API Example",
+    "license": "MIT",
+    "dependencies": {
+        "websocket": "^1.0.32",
+        "ws": "^7.4.0"
+    },
+    "readmeFilename": "README.md"
+}
